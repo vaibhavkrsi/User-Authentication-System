@@ -1,10 +1,10 @@
 #text{
     height:25px;
     border-radius:5px;
-    padding: 4px;
+    padding: 10px;
     border: solid thin #aaa; 
-    width: 100%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a{
     text-decoration:none;
@@ -12,10 +12,11 @@ a{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #button{
-    padding:10px;
+    padding:15px;
     width: 100px;
     color:white;
-    background-color:rgb(88, 177, 207);
+    background-color:rgb(79, 179, 216);
+    justify-content: center;
     border-radius:5px;
     border:none;
 }
@@ -52,4 +53,4 @@ body{
     color:white;
     font-family: "Helvetica Neue",Helvetica;
     text-align: center;
-} 
+}  

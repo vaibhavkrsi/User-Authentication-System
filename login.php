@@ -53,8 +53,7 @@ include("functions.php");
                 <input id="text" type="text" name="user_name"><br><br>
                 <input id="text" type="password" name="password"><br><br>
                 <input id="button" type="submit" name="Login"> <br><br>
-                <a href="signup.php">Click to Signup</a><br><br>
-                
+                <a href="signup.php">Click to Signup</a><br><br> 
             </form>
         </div>
     </div>
