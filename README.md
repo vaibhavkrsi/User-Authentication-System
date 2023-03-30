@@ -8,7 +8,8 @@ Use a Local server like XAMPP no need to install PHP, SQL, Apache.
 Visit this website to install xampp https://www.apachefriends.org/download.html
 
 
-<h5>Login authentication system using HTML, CSS for frontend and PHP for backend and for database MySQL.
+<h5>Login authentication system using HTML, CSS for frontend and PHP for backend and for database MySQL.</h5>
+
 ![Screenshot (304)](https://user-images.githubusercontent.com/85220679/228901401-8cc178d6-36dc-42af-a5da-d6b50484c23f.png)
 
 Using xampp for php 
